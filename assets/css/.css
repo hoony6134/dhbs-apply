@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Custom Font';
+	src: url(../../assets/fonts/20220316_NaverBD-ExtraBold.woff2) format('woff2'),
+	url(../../assets/fonts/20220316_NaverBD-ExtraBold.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
